@@ -4,6 +4,7 @@
 
 ### Machine Learning & Artificial Intelligence
 
+- Everyone at Hugging Face: https://twitter.com/i/lists/1415732550526513157
 - https://twitter.com/LelapaAI
 - https://twitter.com/MelMitchell1
 - https://twitter.com/vaishakbelle
