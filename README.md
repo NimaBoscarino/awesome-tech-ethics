@@ -1,8 +1,25 @@
 # awesome-tech-ethics
 
-## Social Media Accounts (unordered)
+## Taxonomy
 
-### Machine Learning & Artificial Intelligence
+I use these descriptors to describe "ethical" technology. This is _not_ a checklist to qualify a technology (or a project) as "ethical", but rather a tool for categorizing/tagging work.
+
+- Consenftul
+- Inclusive
+- Rigorous
+- Sustainable
+- Socially Conscious
+- Inquisitive
+
+See the following for descriptions of these tags with relation to the field of ML/AI: https://huggingface.co/spaces/society-ethics/featured-spaces-submissions
+
+## Machine Learning & Artificial Intelligence
+
+### Literature
+
+See this Zotero: https://www.zotero.org/groups/4938113/hugging_face/collections/UWMAK3M2
+
+### Social Media Accounts (unordered)
 
 - Everyone at Hugging Face: https://twitter.com/i/lists/1415732550526513157
 - https://twitter.com/LelapaAI
